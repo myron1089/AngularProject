@@ -1,0 +1,40 @@
+
+ .navbar-brand {
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-weight: 400;
+  }
+   .navbar {
+    background: #262626 !important;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+  }
+  
+   .navbar .nav-link {
+    padding: 1.7rem 1rem;
+    outline: none !important;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: white !important;
+  }
+  
+   .navbar .cta-btn a {
+    background: #cf1d16;
+    color: #fff !important;
+    text-transform: uppercase;
+    padding: 15px 20px !important;
+    line-height: 1;
+    font-weight: bold;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+  }
+  
+   .navbar .cta-btn a:hover {
+    background: #fff;
+    color: #cf1d16 !important;
+    -webkit-box-shadow: 2px 0 30px -5px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 0 30px -5px rgba(0, 0, 0, 0.2);
+  }
+  
